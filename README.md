@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Luke!
+# 👋 ¡Hola, soy Luca!
 
 Soy un **Desarrollador Full Stack** apasionado por crear soluciones escalables y funcionales. Tengo experiencia en **ReactJS**, **JavaScript**, **HTML5**, **CSS3**, **Node.js**, **PostgreSQL**, ¡y mucho más!
 
