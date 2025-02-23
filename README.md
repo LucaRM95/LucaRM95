@@ -19,7 +19,8 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones escalables y
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 
 ## 📂 Proyecto destacado:
-- **[KeySphere](https://github.com/LucaRM95/key-sphere-re)** - Aplicación de bienes raíces (Next.js, Prisma, PostgreSQL)
+- **[KeySphere](https://github.com/LucaRM95/key-sphere-re)** - Aplicación de bienes raíces (Next.js, Laravel, PostgreSQL)
+- **[KeySphereApp](https://github.com/LucaRM95/key-sphere-app)** - Aplicación de bienes raíces (React native, Expo)
 
 ## 📫 ¿Cómo contactarme?
 - **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/luca-rojas-massey-77b3a428b/)
