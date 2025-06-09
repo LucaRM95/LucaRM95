@@ -17,8 +17,8 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones escalables y
 [![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
-[![PHP](https://img.shields.io/badge/-PHP-339933?logo=php&logoColor=#4F5B93&style=flat-square)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/-Laravel-339933?logo=laravel&logoColor=white&style=flat-square)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/-PHP-4F5B93?logo=php&logoColor=white&style=flat-square)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel&logoColor=#F53003&style=flat-square)](https://www.php.net/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 
